@@ -1,298 +1,448 @@
-3040.19	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
-441.44	Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
-251.24	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
-226.64	Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)
+10094.03	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+10024.68	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+10020.28	Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+10016.21	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+10005.26	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+10000.00	Mozilla/5.0 (compatible; monitis - premium monitoring service; http://www.monitis.com)
+4058.96	Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML, like Gecko) Version/7.2.1.0 Safari/536.2+
+2899.88	checks.panopta.com
+2088.06	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.1720 Mobile Safari/537.10+
+2008.08	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.16
+1984.77	SAMSUNG-GT-E1282T Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.31524/30.3593; U; en) Presto/2.8.119 Version
+1984.77	Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko) Version/3.1 Safari/525.13
+1984.77	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0
+1984.77	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.3)
+874.74	Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US); 0110120602120527
+463.75	Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
+376.07	ClickTale bot
+253.21	Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)
 196.28	iisbot/1.0 (+http://www.iis.net/iisbot.html)
-180.03	Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0
-159.95	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+184.25	Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5
+182.34	Mozilla/6.0 (Windows NT 6.1; rv:16.0.1) Gecko/20121011 Firefox/16.0.1
+181.34	Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+181.34	SAMSUNG-GT-C3262 Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.30281/30.3593; U; en) Presto/2.8.119 Version/
+181.34	SAMSUNG-GT-C3312/1.0 NetFront/4.2 Profile/MIDP-2.0 Configuration/CLDC-1.1
+181.34	SHC;SHC-Unit-06142;SHC-HTS;SHC-KIOSK;SHC-MAC-0123; (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+181.34	Opera/9.80 (J2ME/MIDP; Opera Mini; U; en) Presto/2.8.119 Version/11.10.119 Version/11.10
+181.34	Mozilla/4.0 (compatible  MSIE 7.0  Windows NT 6.0  GTB6.6  SLCC1  .NET CLR 2.0.50727  Media Center PC 5.0  eSobiSubscriber 2.0.4.16  .NET CLR 3.0.30618  .NET CLR 3.5.30729  .NET4.0C)
+181.34	Mozilla/5.0 (iPhone; U; CPU iPhone OS 6_0 like Mac OS X; en_US) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1.1;FBBV/4110.0;FBDV/iPhone2,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.0;FBSS/1; FBCR/etisalat;FBID/phone;FBLC/en_US;FBSF/1.0]
+181.34	LG-350 MIDP-2.0/CLDC-1.1 Release/31.12.2010 Browser/Opera Sync/SyncClient1.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera/9.80 (MTK; U; pt-BZ) Presto/2.5.28 Version/10.10
+181.34	Mozilla/5.0 (compatible; Konqueror/4.1; DragonFly) KHTML/4.1.4 (like Gecko)
+181.34	SAMSUNG-GT-i8000/1.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile 6.0)
+181.34	ALCATEL_ONE_TOUCH_639G/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C
+181.34	SAMSUNG-GT-S3850/1.0 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+181.34	Mozilla/5.0 (X11; U; OpenBSD arm; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0
+181.34	Mozilla/5.0 (iPad; CPU iPhone OS 501 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+181.34	Opera/9.80 (MTK; Opera Mini/2.1237/30.3593; U; es) Presto/2.8.119 Version/11.10ion/11.10
+181.34	Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.52 (KHTML, like Gecko) NX/2.1.0.10.9 NintendoBrowser/1.5.0.8047.US
+181.34	Mozilla/5.0 (Windows; N; ; en-US) AppleWebKit/527+ (KHTML, like Gecko, Safari/419.3) Qt/4.5.3
+181.34	Opera/9.80 (BREW; Opera Mini/5.1/27.2338; U; en) Presto/2.8.119 400X240 LG VN271
+171.49	AddThis.com robot tech.support@clearspring.com
+162.81	Mozilla/5.0 (Android; Tablet; rv:17.0) Gecko/17.0 Firefox/17.0
+161.30	Mozilla/5.0 (iPad; U; CPU iPhone OS 4_3_5 like Mac OS X; en_US) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/4.3.5;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBSF/1.0]
+145.91	Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2342 Mobile Safari/537.10+
+137.39	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2354 Mobile Safari/537.10+
+128.86	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.10.690 Mobile Safari/537.10+
+121.23	Mozilla/5.0 (Linux; U; en-US) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+) Version/4.0 Kindle/3.0 (screen 600x800; rotate)
+101.19	LG-GM360/V100 Obigo/WAP2.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+101.19	SonyEricssonCK15a/R3AC020 TelecaBrowser/Q07C1-1 Profile/MIDP-2.0 Configuration/CLDC-1.1
+101.19	ZTE R270/P107D11/OPERA MINI 4.3/OBIGO Q03C/MIDP-2.0 CONFIGURATION/CLDC-1.1
+101.19	WhatsApp/2.10.2 iPhone_OS/6.1 Device/iPhone_5
+101.19	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/6.0.422.0 Safari/534.1
+86.36	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC)
 82.50	GG PeekBot 2.0 ( http://gg.pl/ http://info.gadu-gadu.pl/praca )
+81.15	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1581.2 Safari/537.36
+81.15	RebelMouse/0.1 Mozilla/5.0 (compatible; http://rebelmouse.com) Gecko/20100101 Firefox/7.0.1
+81.15	Mozilla/5.0(Linux;U;Android2.2;en-ie;GT-P1000Build/FROYO)AppleWebKit/533.1(KHTML,likeGecko)Version/4.0MobileSafari/533.1
+73.46	Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.1483 Mobile Safari/537.10+
 71.95	Dolphin http client/10.0.1(230) (Android)
-67.09	Mozilla/5.0 (Windows NT 6.1; rv:23.0) Gecko/20100101 Firefox/23.0
+69.19	Mozilla/5.0 (compatible; SemrushBot/0.96.4; +http://www.semrush.com/bot.html)
+66.60	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)
+64.93	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
 62.65	Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup.com/crawler.html)
+61.11	Uzbl (Webkit 1.8) (Linux i686 [i686])
+61.11	Motorola_ES405B/191 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Windows Phone 6.5.3.5)
+61.11	SAMSUNG-GT-S5560/1.0 SHP/VPP/R5 Dolfin/1.0 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+61.11	Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130110 conkeror/1.0pre
+61.11	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.371.0 Safari/533.4
+61.11	Mozilla/5.0 (Android; Tablet; rv:18.0) Gecko/18.0 Firefox/18.0
+60.67	Mozilla/5.0 (textmode; U; Linux i386; en-US; rv:3.0.110.0) Gecko/20101006 EzineArticlesLinkScanner/3.0.0g
+59.19	Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+58.43	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620)
+54.37	Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)
+52.15	adidxbot/2.0 (+http://search.msn.com/msnbot.htm)
 47.15	Dolphin http client/10.0.0(225) (Android)
+43.62	Mozilla/5.0 (compatible; linkdexbot/2.0; +http://www.linkdex.com/about/bots/)
 41.94	WSCommand-iPhone6.1.3_RN_REL 2.2.1 - 04/03/2012 - 11:36
-36.06	Mozilla/5.0 (Windows NT 6.0; rv:23.0) Gecko/20100101 Firefox/23.0
-34.21	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC)
+41.08	Mozilla/5.0 (Linux i686) AppleWebKit/535.22+ (KHTML, like Gecko) WebKitGTK+/1.8.0 luakit
+41.08	Dillo/3.0.2
+41.08	Mozilla/4.0 (compatible; Polaris 6.2; Brew 3.1.5; en)/240X320 Samsung sam-r640
+41.08	Mozilla/5.0 (Windows NT 4.10; rv:19.0) Gecko/20100101 Firefox/19.0
+41.08	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/7.0.503.0 Safari/534.6
+41.08	Mozilla/5.0 (Windows; U; Windows NT 5.1; ka-GE) AppleWebKit/533.3 (KHTML, like Gecko)  QtWeb Internet Browser/3.7 http://www.QtWeb.net
+41.08	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.18 Safari/534.10
+39.36	UrlRedirectResolver
+39.36	Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
+35.10	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC)
+35.10	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+
+34.11	Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.8.0.11)  Firefox/1.5.0.11; 360Spider
 32.71	Mozilla/5.0 (Windows; U; en-US; rv:1.8.1.11; Gecko/20071129; Firefox/2.5.0) Maple 6.0.00067 Navi
-26.08	Mozilla/5.0 (Android; Tablet; rv:22.0) Gecko/22.0 Firefox/22.0
-24.68	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-22.39	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36 OPR/15.0.1147.148
+28.23	Mozilla/5.0 (compatible; 200PleaseBot/1.0; +http://www.200please.com/bot)
+26.57	ContactLab
+26.57	Mozilla/5.0 (Linux;u;Android 2.3.7;zh-cn;) AppleWebKit/533.1 (KHTML,like Gecko) Version/4.0 Mobile Safari/533.1 (compatible; +http://www.baidu.com/search/spider.html)
+22.31	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+22.31	Mozilla/5.0 (compatible; 008/0.85; http://www.80legs.com/webcrawler.html) Gecko/2008032620
+21.04	HTC_Smart_F3188 Mozilla/5.0 (like Gecko) Obigo/Q7
+21.04	Mozilla/5.0 (Windows; U; en_US) AppleWebKit/533.19.4 (KHTML, like Gecko) Dreamweaver/12.0.0.5808 Version/5.0.3 Safari/533.19.4
+21.04	Mozilla/5.0 Opera/9.5 (KDDI-TS3Q; BREW; Opera Mobi; U; ja) Presto/2.2.1
+21.04	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko)Version/6.0.4 Safari/536.30.1
+21.04	Mozilla/5.0 (; rv:2.0b6) Gecko/20100101 Firefox/4.0b6
+21.04	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; rv:11.0) like Gecko/20100101 Firefox/12.0
+21.04	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.25 Safari/532.5
+21.04	Mozilla/5.0 (Windows NT 6.2; rv:5.0) Gecko/20100101 Firefox/5.0
 20.75	www.monit24.pl-m24Bot/3.1-
-19.28	Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+19.84	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)
+19.10	Mozilla/5.0 (compatible; Sosospider/2.0; +http://help.soso.com/webspider.htm)
 19.01	Mozilla crawl/5.0 (compatible; fairshare.cc +http://fairshare.cc)
+18.42	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.15
 18.12	Mozilla/5.0 (Windows NT 4.10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
-16.37	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130721 Firefox/24.0
-16.31	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+18.05	IE 7 - Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+18.05	Mozilla/4.0
+18.05	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6) Gecko/20100101 Firefox/5.0.1
+18.05	Mozilla/4.0(compatible;MSIE 7.0;Windows NT 6.1;SV1;.NET CLR 1.0.3705;.NET CLR 3.0.30618)
+18.05	Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.2)
+16.41	Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
 16.22	WSCommand-iPhoneiPhone5.0_NRN_DEB 2.2.1 - 04/03/2012 - 11:36
-16.05	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
-15.92	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36 OPR/15.0.1147.100 (Edition Next)
-14.42	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36 OPR/15.0.1147.148 (Edition Campaign 21)
+15.65	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+15.35	Mozilla/5.0 (compatible; GeliyooBot/1.0beta; +http://www.geliyoo.com/)
+15.00	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 720)
+14.63	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.16
 13.98	
-13.79	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.16
-13.58	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130722 Firefox/24.0
-13.41	checks.panopta.com
+13.79	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US) Gecko/20101012 Firefox/3.6.11
+13.79	Readability/38b3ab - http://readability.com/about/
+13.79	Mozilla/4.0 (compatible; Crawler; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+13.79	Test Certificate Info
+13.79	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+13.79	Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/5.0
+13.79	Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/7.0.1
+13.79	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HUAWEI; W1-U00)
 13.14	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:25.0) Gecko/20130722 Firefox/25.0
 12.99	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130215 Thunderbird/17.0.3
 12.30	GG PeekBot 1.0 ( http://gg.pl/ http://info.gadu-gadu.pl/praca )
-12.29	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
 11.70	ExB Language Crawler 2.1.5 (+http://www.exb.de/crawler)
-11.03	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:23.0) Gecko/20130602 Firefox/23.0
-10.53	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130717 Firefox/24.0
-10.19	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)
+10.57	Mozilla/5.0 (compatible; oBot/2.3.1; +http://filterdb.iss.net/crawler/)
 9.79	WSCommand-iPhone6.1.4_RN_REL 2.2.1 - 04/03/2012 - 11:36
-9.74	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 720)
 9.57	OurBrowser/1.0 (Some Name)
+9.52	Mozilla/5.0 (compatible; MSIE 9.0; GACID=uk2_32364; LTID=32364 Gacela=1-{59BB1441-4BA6-4698-AD65-62BF68404EC2}-32364; Windows NT 6.1; WOW64; Trident/6.0; EIE10;ENGBWOL)
+9.52	Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.1720 Mobile Safari/537.10+
+9.52	Mozilla/5.0 (X11; U; Linux x86; en-GB) adbeat.com/policy Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3 AppleWebKit/532.4 Safari/532.4
+9.52	"Mozilla/5.0 (compatible; Sosospider/2.0; +http://help.soso.com/webspider.htm)"
 9.50	WSCommand-iPhone6.1.3_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 9.47	Mozilla/5.0 (compatible; Abonti/0.91 - http://www.abonti.com)
+9.42	Mozilla/5.0 (compatible; SiteExplorer/1.0b; +http://siteexplorer.info/)
 9.38	WSCommand-iPhoneiPad5.0_NRN_DEB 2.2.1 - 04/03/2012 - 11:36
 9.22	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130712 Firefox/25.0
-9.21	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36 OPR/15.0.1147.141
 8.60	Mozilla/5.0 (000000000; 00000 000 00 0 000000) DDDDDDDDDDDDDDDDDDDD DDDDDDD DDDD DDDDDD DDDDDDDDDDDDD DDDDDDDDDDDDDDD
 8.58	Mozilla/5.0 (compatible; AhrefsBot/4.0; +http://ahrefs.com/robot/)
-8.29	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1558.0 Safari/537.36
-8.09	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130723 Firefox/24.0
 8.05	Mozilla/5.0 (compatible; YYSpider; +http://www.yunyun.com/spider.html)
+7.77	Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
 7.59	Mozilla/5.0 (Windows; U; Windows NT 6.0; pl; AplusC Web Client) Gecko/20071127 Firefox/2.0.0.11
-7.47	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:23.0) Gecko/20100101 Firefox/23.0
 7.29	WSCommand-iPhoneiPhone5.1.1_NRN_DEB 2.2.1 - 04/03/2012 - 11:36
+7.27	Mozilla/5.0 (compatible; TweetmemeBot/3.0; +http://tweetmeme.com/)
 7.21	WSCommand-iPhone6.1.2_RN_REL 2.2.1 - 04/03/2012 - 11:36
 7.03	Mozilla/4.0 (compatible;)
 6.95	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; Orange)
+6.80	Mozilla/5.0 (compatible; ZumBot/1.0; http://help.zum.com/inquiry)
 6.76	Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.15
-6.69	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+6.51	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; Vodafone)
 6.37	Opera/9.80 (Windows NT 6.2; Edition Campaign 21) Presto/2.12.388 Version/12.16
+6.36	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.10.648 Mobile Safari/537.10+
 6.34	Mozilla/6.0 (compatile; WTW Network Agent 1.0; U;)
-6.28	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620)
-6.28	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130721 Firefox/24.0
-6.05	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)
+6.31	ichiro/3.0 (http://search.goo.ne.jp/option/use/sub4/sub4-1/)
 5.87	Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:25.0) Gecko/20130715 Firefox/25.0
 5.63	LG-KP500 Teleca/WAP2.0 MIDP-2.0/CLDC-1.1
+5.26	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.10.738 Mobile Safari/537.10+
+5.26	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920; Vodafone)
+5.26	Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/9.0.1
+5.26	SynHttpClient-Built/5731
+5.26	Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; NABI2-NV7A-UK Build/IMM76L)Maxthon AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+5.26	Ruby
+5.26	http://www.nominet.org.uk/privacypolicy
+5.26	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_2806; LTID=2806 Gacela=1-{2B6963F6-9B1F-4052-BE49-A3DD3506A100}-2806; Windows NT 6.1; WOW64; Trident/6.0)
+5.26	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620; Vodafone)
+5.26	www.integromedb.org/Crawler
+5.26	Opera/9.80 (Windows NT 6.2; U; en) Presto/2.10.289 Version/12.02
+5.26	Readability/b773a0 - http://readability.com/about/
+5.26	Mozilla/5.0 (PlayStation Vita 2.12) AppleWebKit/536.26 (KHTML, like Gecko) Silk/3.2
+5.26	Mozilla/5.0 (en-us) AppleWebKit/537.4(KHTML, like Gecko; Google-Adwords-DisplayAds-WebRender;) Chrome/22.0.1229Safari/537.4
+5.26	Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.2) Firefox/3.5.2
+5.26	Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/48 (like Gecko) Safari/48
+5.26	Mozilla/5.0 (Linux; U; Android 2.2; fr-fr; Desire_A8181 Build/FRF91) App3leWebKit/53.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+5.26	Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+5.26	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820; Vodafone)
+5.26	LG-E400 Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; LG-E400 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.2
+5.26	Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windows server; + http://tab.search.daum.net/aboutWebSearch.html) Daumoa/3.0
+5.26	TextTrust Crawler
+5.26	Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/4.0.1
 5.21	Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
 5.20	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:25.0) Gecko/20130722 Firefox/25.0
-5.18	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
-5.11	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.16
 5.11	WSCommand-iPhone5.1.1_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 4.91	ImmoMobile_iPhone_1_0
-4.86	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130720 Firefox/24.0
-4.76	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36 AlexaToolbar/alxg-3.1
-4.75	Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20130720 Firefox/24.0
-4.74	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:24.0) Gecko/20130622 Firefox/24.0
-4.63	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.15
 4.55	M
 4.45	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.1)
 4.40	WSCommand-iPhoneiPhone5.1.1_NRN_REL 2.2.1 - 04/03/2012 - 11:36
-4.30	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130718 Firefox/24.0
 4.29	Mozilla/4.05 [en] (WinXP; I)
+4.21	Mozilla/5.0 (compatible; JikeSpider; +http://shoulu.jike.com/spider.html)
 4.20	SAMSUNG-GT-S5610/S5610CXKL1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-4.16	Mozilla/5.0 (compatible; SiteExplorer/1.0b; +http://siteexplorer.info/)
+4.09	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.15
 3.99	IEAutoDiscovery
-3.89	Mozilla/5.0 (Windows NT 4.0; rv:22.0) Gecko/20100101 Firefox/22.0
 3.89	Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101
+3.89	Mozilla/5.0 (Windows NT 4.0; rv:22.0) Gecko/20100101 Firefox/22.0
+3.88	Mozilla/4.0 (compatible; MSIE 999.1; Unknown)
 3.84	spider
-3.82	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36 OPR/15.0.1147.130
 3.74	Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
 3.68	WSCommand-iPhone5.1.1_RN_REL 2.2.1 - 04/03/2012 - 11:36
 3.64	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
 3.59	WSCommand-iPhoneiPad6.1.3_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 3.54	Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.16
-3.45	WSCommand-iPhone6.0.2_RN_REL 2.2.1 - 04/03/2012 - 11:36
 3.45	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
-3.43	Mozilla/5.0 (Android; Tablet; rv:23.0) Gecko/23.0 Firefox/23.0
+3.45	WSCommand-iPhone6.0.2_RN_REL 2.2.1 - 04/03/2012 - 11:36
 3.38	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
 3.33	Mozilla/5.0 (masking-agent; rv:22.0) Gecko/20100101 Firefox/22.0
 3.28	Mozilla/20.0
-3.27	Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.8.0.11)  Firefox/1.5.0.11; 360Spider
-3.23	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130719 Firefox/24.0
 3.23	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130620 Thunderbird/17.0.7
-3.21	Mozilla/5.0 (compatible; JikeSpider; +http://shoulu.jike.com/spider.html)
 3.13	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130717 Firefox/25.0
 3.13	NewspointBot/1.0 (http://www.netsprint.eu/)
-3.09	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.15
-3.08	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.22 Safari/537.36
-3.08	Mozilla/5.0 (Windows NT 6.0; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
 3.06	SAMSUNG-GT-B2710/B271MCXKF1 SHP/VPP/R5 Dolfin/2.0 QTV/5.3 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
-3.03	WSCommand-iPhoneiPhone5.0_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 3.03	Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.16) Gecko
+3.03	WSCommand-iPhoneiPhone5.0_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 2.99	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729;
 2.93	Mozilla/5.0 (compatible; special_archiver/3.1.1 +http://www.archive.org/details/archive.org_bot)
-2.93	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130707 Firefox/24.0
 2.93	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729;
-2.89	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1568.2 Safari/537.36
-2.88	Mozilla/4.0 (compatible; MSIE 999.1; Unknown)
 2.85	Microsoft Office Mobile/15.0
 2.83	ruby
-2.78	Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
-2.72	Mozilla/5.0 (X11; CrOS x86_64 4100.68.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.68 Safari/537.36
-2.62	Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+2.71	Mozilla/5.0 (Mobile; rv:18.0) Gecko/18.0 Firefox/18.0
+2.71	Mozilla/4.0 (compatible; Synapse)
+2.71	Mozilla/4.0 (compatible; MSIE 8.0; Win32)
 2.57	AsyncHttpClient 1.0
-2.54	Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20130620 Thunderbird/17.0.7
 2.54	Mozilla/5.0 (compatible; melog.com FasThumbnail)
-2.51	Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+2.54	Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20130620 Thunderbird/17.0.7
 2.47	Mozilla/5.0 (Windows NT 4.0; rv:20.0) Gecko/20100101 Firefox/20.0
 2.39	Mozilla/5.0 (Windows NT 4.0; rv:17.0) Gecko/20100101 Firefox/17.0
 2.35	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.14
-2.32	WSCommand-iPhoneiPad6.1.3_NRN_DEB 2.2.1 - 04/03/2012 - 11:36
-2.32	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130723 Firefox/24.0
 2.32	Mozilla/4.0 (compatible)
-2.32	Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML, like Gecko) Version/7.2.1.0 Safari/536.2+
-2.28	Mozilla/5.0 (Android; Tablet; rv:21.0) Gecko/21.0 Firefox/21.0
+2.32	WSCommand-iPhoneiPad6.1.3_NRN_DEB 2.2.1 - 04/03/2012 - 11:36
 2.27	16.02
-2.26	Mozilla/5.0 (Android; Tablet; rv:19.0) Gecko/19.0 Firefox/19.0
+2.25	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) QuickLook/4.0
+2.22	Screaming Frog SEO Spider/2,20
 2.22	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko)
 2.22	Microsoft Office Mobile /14.0
-2.22	Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)
-2.22	Screaming Frog SEO Spider/2,20
 2.20	WSCommand-iPhone6.1_RN_REL 2.2.1 - 04/03/2012 - 11:36
 2.19	Mozilla/5.0 (Windows NT 4.0; rv:14.0) Gecko/20100101 Firefox/14.0.1
-2.15	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.22 Safari/537.36 OPR/16.0.1196.14 (Edition Next)
 2.07	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0;.NET CLR 1.0.3705; ContextAd Bot 1.0)
+2.02	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 822)
 2.01	Mozilla/5.0 (Windows NT 5.1; rv:10.0) Gecko/20100101
-2.01	Mozilla/5.0 (compatible; TweetmemeBot/3.0; +http://tweetmeme.com/)
 1.96	A6-Indexer/1.0 (http://www.a6corp.com/a6-web-scraping-policy/)
 1.96	Mozilla/5.0 (compatible; Dataprovider Site Explorer; http://www.dataprovider.com/)
-1.91	Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5
-1.91	Mozilla/5.0 (Windows NT 6.0; rv:24.0) Gecko/20130719 Firefox/24.0
 1.91	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center
 1.90	Mozilla/5.0 (compatible; IstellaBot/1.10.2 +http://www.tiscali.it/)
-1.86	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
 1.74	Nekstbot - http://www.ipipan.waw.pl/nekst/nekstbot/
-1.71	Mozilla/4.0 (compatible; Synapse)
-1.71	Mozilla/4.0 (compatible; MSIE 8.0; Win32)
-1.71	Mozilla/5.0 (Mobile; rv:18.0) Gecko/18.0 Firefox/18.0
-1.66	Mozilla/5.0 (compatible; 200PleaseBot/1.0; +http://www.200please.com/bot)
-1.66	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:23.0) Gecko/20100101 Firefox/23.0
 1.61	Mozilla/5.0 (compatible; news bot /2.1)
 1.61	Mozilla/5.0 (Macintosh; Intel Mac OS X) Word/14.10.0
-1.56	Mozilla/5.0 (X11; U; Linux i686; de-DE; rv:99.0) Gecko/201212231 Firefox/25.0.0
-1.56	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko)
 1.56	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130723 Firefox/25.0
-1.56	Mozilla/5.0 (compatible; GeliyooBot/1.0beta; +http://www.geliyoo.com/)
+1.56	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko)
 1.56	Dalvik/1.6.0 (Linux; U; Android 4.1.2; C6603 Build/10.1.A.1.434)
-1.54	Mozilla/5.0 (compatible; ZumBot/1.0; http://help.zum.com/inquiry)
+1.56	Mozilla/5.0 (X11; U; Linux i686; de-DE; rv:99.0) Gecko/201212231 Firefox/25.0.0
 1.51	Mozilla/5.0 (Windows NT 4.0; rv:16.0) Gecko/20100101 Firefox/16.0
-1.51	Mozilla/5.0 (Android; Tablet; rv:17.0) Gecko/17.0 Firefox/17.0
-1.51	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0; WUID=bdae9e866ac38638a8c1d7b6bbf1c54a; WTB=2958) Gecko/20130517 Firefox/24.0
 1.46	Mozilla/5.0 (compatible;  Page2RSS/0.7; +http://page2rss.com/)
 1.46	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.2
-1.43	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.63 Safari/537.36
+1.41	Mozilla/5.0 (Windows NT 4.0; rv:19.0) Gecko/20100101 Firefox/19.0
 1.41	Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
 1.41	SAMSUNG-S8000/S8000XPJA1 SHP/VPP/R5 Jasmine/1.0 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 SS-Widget/S8000-FM
-1.41	Mozilla/5.0 (Windows NT 4.0; rv:19.0) Gecko/20100101 Firefox/19.0
 1.36	Opera/9.80 (Windows NT 6.2; U; pl) Presto/2.10.229 Version/11.60
-1.30	Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9) Gecko Minefield/3.0
 1.30	Mozilla/5.0 (compatible; Add Catalog/2.1;)
+1.30	Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9) Gecko Minefield/3.0
 1.25	iMozilla/5.0 (Linux; U; Android 2.3.6; pl-pl; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
 1.25	Mozilla/5.0 (Windows NT 4.10; rv:21.0) Gecko/20100101 Firefox/21.0
-1.25	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; Vodafone)
 1.25	sdfjosa789
-1.25	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) QuickLook/4.0
 1.23	Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.14
 1.21	Mozilla/5.0 (compatible; OpenindexSpider; +http://www.openindex.io/en/webmasters/spider.html)
-1.20	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.7; en-US; rv:1.9.2.10) Gecko Expeditor 6.2.2.20110821-1115 Gecko/20110821-1115
-1.20	Mozilla/5.0 (Linux;U; Android 4.0.3; en-us;Digitac Ultratab;C925 Build/ICS) AppleWebKit/534.30 (KHTML,like Gecko) Version/4.0 Safari/534.30;SurfTab_7.0
 1.20	WSCommand_iPhone5.0_NRN_REL 2.2.1 - 04/03/2012 - 11:36
+1.20	Mozilla/5.0 (Linux;U; Android 4.0.3; en-us;Digitac Ultratab;C925 Build/ICS) AppleWebKit/534.30 (KHTML,like Gecko) Version/4.0 Safari/534.30;SurfTab_7.0
+1.20	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.7; en-US; rv:1.9.2.10) Gecko Expeditor 6.2.2.20110821-1115 Gecko/20110821-1115
 1.20	Mozilla/5.0 (Windows NT 4.10; rv:22.0) Gecko/20100101 Firefox/22.0
 1.20	Mozilla/5.0 (Windows NT 4.10; rv:12.0) Gecko/20100101 Firefox/12.0
 1.17	mbot v.1.16
-1.15	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130721 Firefox/25.0
-1.15	Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.4 (like Gecko) Konqueror/4.10
 1.15	Opera/9.80 (Windows NT 6.2; U; Edition Next; pl) Presto/2.9.168 Version/12.00
+1.15	Mozilla/5.0 (X11; Linux x86_64) KHTML/4.10.4 (like Gecko) Konqueror/4.10
+1.15	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130721 Firefox/25.0
 1.12	Mozilla/5.0 (compatible; melog.com regionalne curl)
 1.11	Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.16
 1.11	Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.15
-1.10	WSCommand-iPhone4.3.4_RN_REL 2.2.1 - 04/03/2012 - 11:36
-1.10	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET4.0C; Microsoft Outlook 14.0.6131; ms-office;
-1.10	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)
 1.10	Dolphin http client/10.0.1 INT(228) (Android)
-1.10	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.10.648 Mobile Safari/537.10+
-1.10	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130720 Firefox/25.0
 1.10	Mozilla/9.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.9) Gecko/20100909 Firefox/3.9.9 (.NET CLR 3.1.39999)"
-1.09	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130704 Firefox/25.0
+1.10	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130720 Firefox/25.0
+1.10	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)
+1.10	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET4.0C; Microsoft Outlook 14.0.6131; ms-office;
+1.10	WSCommand-iPhone4.3.4_RN_REL 2.2.1 - 04/03/2012 - 11:36
 1.09	Mozilla/5.0 (compatible; SemrushBot/0.96.3; +http://www.semrush.com/bot.html)
-1.08	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.12
-1.08	Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+1.09	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130704 Firefox/25.0
 1.08	Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.13
 1.08	Mozilla/4.0 (compatible; MSIE 9.0; QDesk 2.3.1185.202; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
-1.08	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1573.2 Safari/537.36
-1.08	Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20130715 Firefox/24.0
+1.08	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 21) Presto/2.12.388 Version/12.12
 1.07	Mozilla/5.0 (compatible
-1.06	Mozilla/5.0 (Windows NT 6.2; rv:23.0) Gecko/20100101 Firefox/23.0
 1.06	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.1)
-1.05	Dalvik/1.6.0 (Linux; U; Android 4.2.2; C6603 Build/10.3.A.0.423)
-1.05	Mozilla/5.0 (Android; Tablet; rv:20.0) Gecko/20.0 Firefox/20.0
-1.05	ichiro/3.0 (http://search.goo.ne.jp/option/use/sub4/sub4-1/)
-1.05	Mozilla/5.0 (compatible; Sosospider/2.0; +http://help.soso.com/webspider.htm)
-1.05	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit (KHTML, like Gecko)
-1.05	Mozilla/5.0 (compatible; oBot/2.3.1; +http://filterdb.iss.net/crawler/)
-1.05	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130620 Thunderbird/17.0.7 Lightning/1.9.1
 1.05	WSCommand-iPhone6.0.1_RN_REL 2.2.1 - 04/03/2012 - 11:36
-1.04	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130713 Firefox/24.0
-1.04	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={17900105-2F52-4D97-AB7A-0F5B382DF5AD}; BTRS100127; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Amazon Toolbar; InfoPath.2; BRI/2; AskTbORJ/5.15.23.36191; B
-1.04	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.12
-1.04	ValidURL
+1.05	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit (KHTML, like Gecko)
+1.05	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130620 Thunderbird/17.0.7 Lightning/1.9.1
+1.05	Dalvik/1.6.0 (Linux; U; Android 4.2.2; C6603 Build/10.3.A.0.423)
 1.04	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SecureStation; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; SmartC
 1.04	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB5; BTRS122327; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 1.1.4322; .NET CLR 3.0.30618; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET4.0C; BRI/2; Ask
+1.04	ValidURL
+1.04	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.12
 1.04	WSCommand-iPhone4.2.1_NRN_REL 2.2.1 - 04/03/2012 - 11:36
+1.04	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={17900105-2F52-4D97-AB7A-0F5B382DF5AD}; BTRS100127; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Amazon Toolbar; InfoPath.2; BRI/2; AskTbORJ/5.15.23.36191; B
 1.03	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SIMBAR={09B46300-322E-4B02-B63B-65609909ED78}; BTRS100671; GTB7.5; patch:205689; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.1; .NE
-1.03	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={61653738-16BC-4159-8BBD-478069127BC2}; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; Dealio Toolbar 3.1.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5
-1.03	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xxx) Gecko/20041027 Mnenhy/0.6.0.104
-1.03	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36 OPR/15.0.1147.141
-1.03	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; chromeframe/23.0.1271.97; BTRS100127; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; InfoPath.2;
-1.03	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20130724 Firefox/25.0
-1.03	Opera/9.80 (Windows NT 6.2; Win64; x64; Edition Next) Presto/2.12.388 Version/12.15
 1.03	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Media Center PC 5.0; SLCC1; OfficeLivePatch.1.3; OfficeLiveConnector.1.5; Tablet PC 2.0; .NET4.0C; BRI/
-1.03	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; Neostrada TP 6.1; BTRS100127; SIMBAR={DACCF94F-40A1-4D46-AD04-700741121D54}; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; FunWebP
 1.03	WSCommand-iPhone6.0.1_NRN_REL 2.2.1 - 04/03/2012 - 11:36
 1.03	SAMSUNG-GT-S5620-ORANGE/S5620BVJD2 SHP/VPP/R5 Dolfin/1.5 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1
+1.03	Opera/9.80 (Windows NT 6.2; Win64; x64; Edition Next) Presto/2.12.388 Version/12.15
+1.03	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; Neostrada TP 6.1; BTRS100127; SIMBAR={DACCF94F-40A1-4D46-AD04-700741121D54}; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; FunWebP
+1.03	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20130724 Firefox/25.0
+1.03	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:x.xxx) Gecko/20041027 Mnenhy/0.6.0.104
+1.03	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SIMBAR={61653738-16BC-4159-8BBD-478069127BC2}; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; Dealio Toolbar 3.1.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5
+1.03	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; chromeframe/23.0.1271.97; BTRS100127; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; InfoPath.2;
+1.02	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 06) Presto/2.12.388 Version/12.16
+1.02	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124342; SIMBAR={DD0D23FA-B21A-4573-8C80-31E3DF34E390}; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.
+1.02	Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+1.02	WSCommand-iPhone6.0_NRN_REL 2.2.1 - 04/03/2012 - 11:36
+1.02	siclab (cboc-test@lab.ntt.co.jp)
+1.02	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GM_UserLogonTimeUTC: 2013-07-10 05:53:46; GM_UserLogonTimeBias: -120; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; InfoPath.3
 1.02	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; StandardSecurityLevel; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET4.0C; .NET4.0E; InfoPath.3; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Stand
+1.02	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130715 Firefox/25.0
 1.02	8JC1 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
 1.02	Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101
 1.02	Mozilla/5.0(iPad; U;CPU OS 5_1 like Mac OS X; zh-CN; iPad3,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.1.280 U3/0.8.0 Safari/7543.48.3
 1.02	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0 rv:4.0) Gecko/2010190413 Firefox/3.8
-1.02	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GM_UserLogonTimeUTC: 2013-07-10 05:53:46; GM_UserLogonTimeBias: -120; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; InfoPath.3
-1.02	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124342; SIMBAR={DD0D23FA-B21A-4573-8C80-31E3DF34E390}; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.
-1.02	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 822)
-1.02	Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20130703 Firefox/24.0
-1.02	Opera/9.80 (Windows NT 6.2; WOW64; Edition Campaign 06) Presto/2.12.388 Version/12.16
-1.02	Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
-1.02	WSCommand-iPhone6.0_NRN_REL 2.2.1 - 04/03/2012 - 11:36
-1.02	siclab (cboc-test@lab.ntt.co.jp)
-1.02	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130715 Firefox/25.0
-1.02	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36
-1.01	Mozilla/5.0 (compatible; DCPbot/1.4; +http://domains.checkparams.com/)
-1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; chromeframe/28.0.1500.72; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; OfficeLiveConnector.1.
-1.01	Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; Media Center PC 6.0; .NET4.0E; MALN; AlexaToolbar/amzni-3.0; TmstmpExt)
-1.01	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130719 Firefox/24.0
-1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; .NET4.0C; .NET4
+1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Internet Explorer 7.0 przygotowany przez Referat Informatyki
 1.01	Mozilla/5.0 (Windows NT 6.2; rv:25.0) Gecko/20130714 Firefox/25.0
 1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS31753; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTbORJ/5.13.1.18107;
+1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; .NET4.0C; .NET4
+1.01	Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; Media Center PC 6.0; .NET4.0E; MALN; AlexaToolbar/amzni-3.0; TmstmpExt)
+1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; chromeframe/28.0.1500.72; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; OfficeLiveConnector.1.
 1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET4.0C; .NET4.0E
 1.01	WSCommand-iPhone6.1_NRN_REL 2.2.1 - 04/03/2012 - 11:36
-1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SecureStation; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.3; .NET4.0C; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET
-1.01	WSCommand-iPhone5.1_RN_REL 2.2.1 - 04/03/2012 - 11:36
-1.01	Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:25.0) Gecko/20130713 Firefox/25.0
 1.01	Mozilla/5.0 (Macintosh; Intel Mac OS X) Word/14.35.0
 1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SDSXP; BTRS99218; AlexaToolbar/amzni-3.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; .NET4.0C; MS-RTC LM 8; SDSXP; .NET4.0E; AlexaToolbar/amzni-3.0; SD
+1.01	Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:25.0) Gecko/20130713 Firefox/25.0
+1.01	WSCommand-iPhone5.1_RN_REL 2.2.1 - 04/03/2012 - 11:36
+1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SecureStation; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.3; .NET4.0C; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET
+1.01	Mozilla/5.0 (compatible; DCPbot/1.4; +http://domains.checkparams.com/)
 1.01	Mozilla/5.0 (iPad; U; CPU iPhone OS 4_3_3 like Mac OS X; sv_SE) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/4.3.3;FBSS/1; FBCR/Era;FBID/tablet;FBLC/sv_SE;FBSF/1.0]
-1.01	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130727 Firefox/24.0
-1.01	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Internet Explorer 7.0 przygotowany przez Referat Informatyki
-1.00	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130711 Firefox/24.0
-1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SecureStation; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0E; .NET4.0C; SmartC
-1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; chromeframe/28.0.1500.72; SIMBAR={7123C1CB-5240-4C23-9377-980299210051}; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; InfoPath.2; AskTb
-1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS122262; GTB7.5; AA075893-7F5D-97C0-CCF6-2BC56675D4AF; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; AskTbORJ/5.12.3
-1.00	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130714 Firefox/24.0
-1.00	Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; BRI/2; TmstmpExt)
-1.00	SppcBot/1
-1.00	Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:25.0) Gecko/20130625 Firefox/25.0
-1.00	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.4.0 Safari/537.36
-1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130709 Firefox/24.0
-1.00	Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20130706 Firefox/24.0
-1.00	LinksCrawler 0.1beta
-1.00	Mozilla/5.0 (iPad; U; CPU  OS 4_1 like Mac OS X; en-us)AppleWebKit/532.9(KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+1.00	netEstate NE Crawler (+http://www.website-datenbank.de/)
+1.00	Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; rv:11.0) like Gecko
+1.00	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925; Vodafone)
+1.00	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 1.04.161.01)
+1.00	Mozilla/5.0 (en-US) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko) Chrome/[CHROME_VERSION] Safari/[WEBKIT_VERSION] pss-webkit-request
+1.00	Mozilla/5.0 (compatible; lufsbot/0.1; +http://www.lufs.org/bot.html)
 1.00	Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.10
 1.00	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1 rv:5.0) Gecko/2010191012 Firefox/3.8
 1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20121024 imm_www315/1.0
 1.00	Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; McAfee; AskTbORJ/5.15.23.36191; TmstmpExt)
-1.00	Mozilla/5.0 (compatible; lufsbot/0.1; +http://www.lufs.org/bot.html)
-1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20130726 Firefox/24.0
-1.00	Mozilla/5.0 (en-US) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko) Chrome/[CHROME_VERSION] Safari/[WEBKIT_VERSION] pss-webkit-request
+1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0.2) Gecko Firefox/19.0.2
+1.00	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13)
+1.00	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925)
+1.00	MSIE 7.0
+1.00	Mozilla/5.0 (Windows NT 4.10; rv:23.0) Gecko/20100101 Firefox/23.0
+1.00	NCBot http://netcomber.com?st=ba2Tool for finding all their domain names.
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_55848; LTID=55848 Gacela=12-{1F751312-8B65-461E-90E9-73C21F070899}-55848; Windows NT 6.1; Trident/6.0)
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=uk2_74840; LTID=74840 Gacela=1-{A84BEDAD-7C0B-4EDA-92B6-97436C73E553}-74840; Windows NT 6.1; WOW64; Trident/6.0)
+1.00	WoWzer/0.9.8 (http://www.wowdirectory.com/wowzer-info.html)
+1.00	ZTE-Z431/1.7.0 NetFront/4.2 QTV5.1 Profile/MIDP-2.1 Configuration/CLDC-1.1
+1.00	ï»¿Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.6) Gecko/20060728 Firefox/1.5.0.6
+1.00	Mozilla/5.0 (Macintosh; U; PPC; en-US; mimic; rv:9.3.2) Clecko/20120101 Classilla/CFM
+1.00	Mozilla/5.0 (iPad; U; CPU  OS 4_1 like Mac OS X; en-us)AppleWebKit/532.9(KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+1.00	LinksCrawler 0.1beta
+1.00	Mozilla/5.0 (Maemo; Mobile; rv:15.0) Gecko/20120829 Firefox/15.0 /15.0
+1.00	Mozilla/5.0 (Android; Linux armv7l; rv:5.0) Gecko/ Firefox/5.0 Fennec/5.0
+1.00	Mozilla/4.0 (compatible  MSIE 5.0  Windows 98  DigExt)
+1.00	Mozilla/5.0 (Windows; U; Windows NT 6.2; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Iron/10.0.650.1 Chrome/10.0.650.1 Safari/534.16
+1.00	Mozilla/5.0 (masking-agent; rv:23.0) Gecko/20130403 Firefox/23.0
+1.00	Mozilla/5.0 (Windows NT 4.10; rv:20.0) Gecko/20100101 Firefox/20.0
+1.00	Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/531.9 (KHTML, like Gecko) AdobeAIR/2.7.1
+1.00	Mozilla/5.0 (Windows NT 4.0; rv:11.0) Gecko/20100101 Firefox/11.0
+1.00	Mozilla/5.0 (masking-agent; rv:13.0) Gecko/20100101 Firefox/13.0.1
+1.00	Mozilla/5.0 (Windows NT 4.0; rv:15.0) Gecko/20100101 Firefox/15.0
+1.00	Mozilla/4.0 (compatible  MSIE 7.0  Windows NT 5.1  Trident/4.0  MyIE2  InfoPath.1  .NET CLR 1.1.4322  .NET CLR 2.0.50727  .NET CLR 3.0.4506.2152  .NET CLR 3.5.30729  .NET4.0C  .NET4.0E  AskTbSPC2/5.11.3.15590)
+1.00	Huawei/1.0/0HuaweiM615/B100 Browser/Obigo_Browser/Q05A HUAWEI-M615
+1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS122262; GTB7.5; AA075893-7F5D-97C0-CCF6-2BC56675D4AF; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; AskTbORJ/5.12.3
+1.00	Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; BRI/2; TmstmpExt)
+1.00	SppcBot/1
+1.00	Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:25.0) Gecko/20130625 Firefox/25.0
+1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; chromeframe/28.0.1500.72; SIMBAR={7123C1CB-5240-4C23-9377-980299210051}; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; InfoPath.2; AskTb
+1.00	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SecureStation; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0E; .NET4.0C; SmartC
+1.00	HTC-F5151/2.18.502.0 Mozilla/5.0 (BMP; U; en) AppleWebKit/530.8 (KHTML, like Gecko) OBIGO/W10 Safari/530.8
+1.00	Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.2.19) Gecko WebThumb/1.0
+1.00	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASEJS; rv:11.0) like Gecko
+1.00	Mozilla/5.0 (Windows NT 4.0; rv:10.0) Gecko/20100101 Firefox/10.0
+1.00	SAMSUNG-GT-S5220 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28754/30.3593; U; en) Presto/2.8.119 Version/11.10
+1.00	Mozilla/5.0 (Windows; U; Windows NT 6.2; en) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/27.0.1453.116 Chrome anonymized by Abelssoft 862212590
+1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20130729 Firefox/25.0
+1.00	Mozilla/5.0(iPad; U; CPU OS 5_0 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F191 Safari/6533.18.5
+1.00	Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 2.00.161.01)
+1.00	Mozilla/5.0 (compatible; MSIE 7; Windows NT 6.0; Trident/5.0; yie9)
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=uk2_33623; LTID=33623 Gacela=1-{59F82D28-5C6F-4BD3-AF5A-99A3F5AA2B77}-33623; Windows NT 6.1; WOW64; Trident/6.0)
+1.00	User-Agent Mozilla/5.0 (Windows; U; Windows NT 5.1; fr;rv\:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_11084; LTID=11084 Gacela=12-{6223A968-4856-4DBE-9E1F-625F9CDC3B5C}-11084; Windows NT 6.2; WOW64; Trident/6.0; MASEJS)
+1.00	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+1.00	HTTP_Request2/2.1.1 (http://pear.php.net/package/http_request2) PHP/5.3.2-1ubuntu4.18
+1.00	Mozilla/5.0 (compatible; Apercite; +http://www.apercite.fr/robot/index.html)
+1.00	Pinterest/0.1 +http://pinterest.com/
+1.00	Opera/9.80 (Windows NT 6.2; WOW64; MRA 8.0 (build 5784)) Presto/2.12.388 Version/12.11
+1.00	UnwindFetchor/1.0 (+http://www.gnip.com/)
+1.00	Vodafone/1.0/HTC_Touch_Pro2/1.86.161.1 (67102) Opera/9.50 (Windows NT 5.1; U; en)
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/6.0; BOIE9;ENGB)
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_14024; LTID=14024 Gacela=12-{4D191435-FB15-451D-8926-047A1DD5D8F2}-14024; Windows NT 6.1; WOW64; Trident/6.0)
+1.00	Mozilla/5.0 (PlayBook; U; Android 2.3.3; en-us; PlayBook Build/2.1.0.131) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+1.00	ThisIsOurYear Linkchecker (www.thisisouryear.com/?p=lc)
+1.00	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5; en-US) AppleWebKit/533.21.1+(KHTML, like Gecko, Safari/533.19.4) Version/5.11.2 OmniWeb/622.19.3.0
+1.00	Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2050 Mobile Safari/537.10+
+1.00	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:25.0) Gecko/20130730 Firefox/25.0
+1.00	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20130730 Firefox/25.0
+1.00	'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)'
+1.00	AndroidDownloadManager/4.2.2 (Linux; U; Android 4.2.2; GT-I9505 Build/JDQ39)
+1.00	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:25.0) Gecko/20130731 Firefox/25.0
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_13259; LTID=13259 Gacela=12-{C32E58B1-AF58-406F-9AE6-50B8D482BF5F}-13259; Windows NT 6.2; WOW64; Trident/6.0; MASBJS)
+1.00	Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.4.1)
+1.00	=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+1.00	Mozilla/5.0 (Macintosh; Intel Mac OS X) Word/14.0.0
+1.00	SAMSUNG-GT-S8530/S8530XXLA1 Bada/2.0 AppleWebKit/534.20 Dolfin/3.0 Mobile NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+1.00	Mozilla/4.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2010635573 Firefox/3.0.5
+1.00	Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML, like Gecko) Version/7.2.1.0 Safari/536.2+ BMID/E679DAE628
+1.00	ssearch_bot (sSearch Crawler; http://www.semantissimo.de)
+1.00	Mozilla/5.0 (PlayStation Vita 2.10) AppleWebKit/536.26 (KHTML, like Gecko) Silk/3.2
+1.00	Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)
+1.00	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0
+1.00	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:25.0) Gecko/20130726 Firefox/25.0
+1.00	Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20130730 Firefox/25.0
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=uk2_33978; LTID=33978 Gacela=1-{7F17BE3F-2CBC-4942-BA72-F17F197E760A}-33978; Windows NT 6.1; WOW64; Trident/6.0; yie10)
+1.00	LG-E610 Mozilla/5.0 (Linux; U; Android 4.0.3; en-gb; LG-E610 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+1.00	Screaming Frog SEO Spider/1,90
+1.00	MSIE 8.0 (compatible; MSIE 10.0; Windows 7; Trident/6.0)
+1.00	SEOstats 2.1.0          https://github.com/eyecatchup/SEOstats
+1.00	Mozilla/4.0 (compatible; GoogleToolbar 6.3.1106.427; Windows XP 5.1; MSIE 8.0.6001.18702)
+1.00	Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko, Google Keyword Suggestion) Chrome/10.0.648.127 Safari/534.16
+1.00	Mozilla/5.0 (compatible; IODC-Internet Engineering Odysseus 002; +http://iodc.co.uk)
+1.00	Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en-US) AppleWebKit/533.21.1+(KHTML, like Gecko, Safari/533.19.4) Version/5.11.1 OmniWeb/622.18.0
+1.00	Myrasoft.com Active Search Engine Robot
+1.00	GT-I9300 Linux/3.0.13 Android/4.1.9 Release/01.07.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.0.1;
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_3015; LTID=3015 Gacela=1-{B12393DB-02A2-4B63-8674-78BB28CCD4A9}-3015; Windows NT 6.2; WOW64; Trident/6.0; Touch; MATMJS)
+1.00	NING/1.0
+1.00	Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; BRI/2; .NET4.0C; BOIE9;ZHCN; SE 2.X MetaSr 1.0)
+1.00	Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.11
+1.00	Comodo-Certificates-Spider
+1.00	Mozilla/5.0 (compatible; MSIE 9.0; GACID=stp_10609; LTID=10609 Gacela=12-{A580FB64-938C-48F7-95F0-568C4D645908}-10609; Windows NT 6.1; WOW64; Trident/6.0)
+1.00	SPORTS_iOS_3.4.2_Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329
+1.00	blogtop.us crawler - http://blogtop.us/
+1.00	Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sistrix.net/)
+1.00	Mozilla/3.0 (Windows; U; Windows NT 5.1; en-US; rv:1.452) Gecko/20041027 Mnenhy/0.6.0.104
